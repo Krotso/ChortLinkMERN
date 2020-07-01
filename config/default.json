@@ -1,0 +1,6 @@
+{
+    "port": 5000,
+    "jwtSecret": "Vlad prokopiv mern",
+    "mongoUri": "mongodb+srv://Vlad:02032001lolka@cluster0-sfxea.azure.mongodb.net/app?retryWrites=true&w=majority",
+    "baseUrl": "http://localhost:5000"
+}
