@@ -21,7 +21,7 @@
   "eslintConfig": {
     "extends": "react-app"
   },
-  "proxy": "https://vlad-link-shorter.herokuapp.com/",
+  "proxy": "https://vlad-link-shorter.herokuapp.com",
   "browserslist": {
     "production": [
       ">0.2%",
